@@ -1,8 +1,8 @@
 # Electronic Cash Supply
 
-The electronic cash supply library allows the assbly of the electromic cash ecash supply source.
+The electronic cash supply library allows the assbly of the electromic cash or ecash supply source.
 
-The electronic cash supply source separated amoung the approving entitiea.
+The electronic cash supply source separated (divided) among the approving entitiea.
 
 To supply electeinic cash it required the approving entities to agree on the borrowers request to create the bond.
 
