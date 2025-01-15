@@ -4,9 +4,9 @@ The electronic cash supply library allows the assbly of the electromic cash or e
 
 The electronic cash supply source separated (divided) among the approving entitiea.
 
-To supply electeinic cash it required the approving entities to agree on the borrowers request to create the bond.
+To supply electronic cash, it required the approving entities to agree on the borrowers request to create the ecash loan.
 
-The ecash can only be supplied if a valid borrower exist and qualified to return the loan on a due date.
+The ecash can only be supplied if a valid borrower exist and qualified on the capacity to return the loan on a determined date.
 
 The approving entities can be in any form, see sample approving entities organization:
 
