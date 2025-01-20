@@ -1,5 +1,8 @@
 # Electronic Cash Supply
 
+![hands-1167612_1280](https://github.com/user-attachments/assets/922acb39-cfd5-4c42-80f9-2cf6dc95fb21)
+
+
 The electronic cash supply library allows the assembly of the electromic cash or ecash supply source.
 
 The electronic cash supply source separated (divided) among the approving entities.
