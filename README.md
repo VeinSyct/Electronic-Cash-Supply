@@ -1,5 +1,11 @@
 # Electronic Cash Supply
 
+The ecash supply is not an open source electronic cash supply library.
+
+The ecash supply repository allows the creation of ecash from the agreement of approving entities as loan (bond) granted for a borrower.
+
+**Note:** there is no one entity is capable of creating ecash, the source code of the electronic cash supply is separated among the approving entity so that not a single authority is capable of creating ecash. The process of democratically creating ecash ensures the existence a of a certain borrower (responsible for the loan or bond which gives the ecash its value).
+
 ![hands-1167612_1280](https://github.com/user-attachments/assets/922acb39-cfd5-4c42-80f9-2cf6dc95fb21)
 
 
