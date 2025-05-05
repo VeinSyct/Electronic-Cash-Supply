@@ -1,6 +1,6 @@
 # Electronic Cash Supply
 
-The ecash supply is not an open source electronic cash supply library.
+The ecash supply is an open source electronic cash supply library. Download electronic [cash supply module](https://github.com/VeinSyct/ECash-Module/tree/main/module-ecash/supply) to develop your electronic cash supply.
 
 The ecash supply repository allows the creation of ecash from the agreement of approving entities as loan (bond) granted for a borrower.
 
